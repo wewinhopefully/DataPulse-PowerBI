@@ -1,0 +1,561 @@
+order_id,order_date,customer_id,customer_name,region,product_category,product_name,quantity,unit_price,payment_method,order_status,is_price_outlier,revenue
+ORD00536,2024-01-01,CUST1352,Customer_147,West,Home & Kitchen,Non-stick Pan,9.0,190.34,Net Banking,Pending,False,1713.06
+ORD00452,2024-01-03,CUST1477,Customer_364,South,Toys,Puzzle Set,1.0,895.46,UPI,Completed,False,895.46
+ORD00145,2024-01-04,CUST1764,Customer_221,West,Home & Kitchen,Non-stick Pan,3.0,1994.01,Debit Card,Completed,False,5982.03
+ORD00060,2024-01-04,CUST1305,Customer_386,West,Uncategorized,Sunscreen SPF50,7.0,150000.0,Cash on Delivery,Completed,True,1050000.0
+ORD00128,2024-01-09,CUST1271,Customer_27,South,Sports,Dumbbell Set,7.0,2701.51,Credit Card,Pending,False,18910.57
+ORD00001,2024-01-13,CUST1250,Customer_115,Central,Books,Fiction Novel,2.0,3431.99,Cash on Delivery,Completed,False,6863.98
+ORD00139,2024-01-14,CUST1029,Customer_93,East,Books,Kids Storybook,5.0,4619.46,UPI,Completed,False,23097.3
+ORD00215,2024-01-17,CUST1195,Unknown Customer,West,Electronics,Denim Jeans,6.0,2181.08,Net Banking,Pending,False,13086.48
+ORD00002,2024-01-17,CUST1095,Customer_112,South,Sports,Football,9.0,3069.79,Cash on Delivery,Cancelled,False,27628.11
+ORD00243,2024-01-17,CUST1629,Customer_393,North,Books,Fiction Novel,4.0,1149.5,Unknown,Completed,False,4598.0
+ORD00186,2024-01-18,CUST1068,Customer_121,West,Toys,Action Figure,6.0,2006.84,Cash on Delivery,Completed,False,12041.04
+ORD00115,2024-01-18,CUST1749,Customer_68,North,Toys,Action Figure,5.0,1734.59,Net Banking,Cancelled,False,8672.95
+ORD00094,2024-01-19,CUST1090,Customer_162,East,Beauty,Shampoo,6.0,712.22,Net Banking,Completed,False,4273.32
+ORD00386,2024-01-20,CUST1910,Customer_170,South,Books,Biography,1.0,3766.89,UPI,Returned,False,3766.89
+ORD00031,2024-01-21,CUST1429,Customer_337,North,Sports,Skipping Rope,10.0,99999.0,UPI,Cancelled,True,999990.0
+ORD00199,2024-01-22,CUST1083,Customer_24,Central,Toys,Board Game,5.0,3307.98,Cash on Delivery,Pending,False,16539.9
+ORD00574,2024-01-22,CUST1552,Customer_290,South,Home & Kitchen,Cushion Cover,6.0,2586.65,Debit Card,Cancelled,False,15519.9
+ORD00584,2024-01-23,CUST1174,Customer_31,East,Sports,Skipping Rope,4.0,3977.56,Cash on Delivery,Returned,False,15910.24
+ORD00314,2024-01-24,CUST1641,Customer_236,Unspecified,Books,Fiction Novel,2.0,4657.75,Debit Card,Pending,False,9315.5
+ORD00415,2024-01-25,CUST1426,Customer_228,West,Electronics,Wireless Earbuds,2.0,2804.32,Net Banking,Pending,False,5608.64
+ORD00173,2024-01-25,CUST1429,Customer_328,Central,Home & Kitchen,Non-stick Pan,8.0,454.61,Net Banking,Completed,False,3636.88
+ORD00142,2024-01-26,CUST1278,Customer_227,West,Apparel,Formal Shirt,8.0,3094.32,Net Banking,Returned,False,24754.56
+ORD00223,2024-01-27,CUST1423,Customer_170,West,Books,Self-Help Book,2.0,3453.78,Debit Card,Completed,False,6907.56
+ORD00461,2024-01-28,CUST1813,Customer_129,Central,Electronics,Wireless Earbuds,2.0,2938.57,Debit Card,Returned,False,5877.14
+ORD00544,2024-01-29,CUST1794,Customer_201,North,Electronics,Smartphone Case,9.0,2430.21,Debit Card,Returned,False,21871.89
+ORD00237,2024-01-30,CUST1688,Customer_158,North,Beauty,Shampoo,7.0,1384.12,Unknown,Pending,False,9688.84
+ORD00124,2024-02-01,CUST1282,Customer_98,North,Books,Cookbook,8.0,594.62,Debit Card,Pending,False,4756.96
+ORD00343,2024-02-01,CUST1678,Customer_67,South,Toys,Skipping Rope,5.0,1415.81,UPI,Pending,False,7079.05
+ORD00024,2024-02-01,CUST1745,Customer_174,North,Electronics,Fiction Novel,4.0,1079.21,Cash on Delivery,Pending,False,4316.84
+ORD00130,2024-02-01,CUST1867,Customer_206,South,Beauty,Face Wash,2.0,2527.8,Net Banking,Completed,False,5055.6
+ORD00020,2024-02-02,CUST1021,Customer_302,Central,Apparel,Denim Jeans,4.0,3003.93,Credit Card,Completed,False,12015.72
+ORD00427,2024-02-02,CUST1670,Customer_161,North,Beauty,Face Wash,9.0,3872.51,Cash on Delivery,Pending,False,34852.59
+ORD00463,2024-02-02,CUST1717,Customer_38,East,Books,Kids Storybook,9.0,664.76,UPI,Completed,False,5982.84
+ORD00501,2024-02-02,CUST1227,Customer_190,North,Beauty,Face Wash,10.0,333.11,Net Banking,Pending,False,3331.1
+ORD00260,2024-02-04,CUST1009,Customer_112,North,Electronics,Remote Car,8.0,1960.02,Cash on Delivery,Pending,False,15680.16
+ORD00490,2024-02-05,CUST1387,Customer_198,South,Sports,Skipping Rope,2.0,230.33,Cash on Delivery,Completed,False,460.66
+ORD00319,2024-02-06,CUST1392,Customer_46,North,Sports,Winter Jacket,2.0,1669.75,Unknown,Cancelled,False,3339.5
+ORD00146,2024-02-06,CUST1882,Customer_380,North,Sports,Dumbbell Set,7.0,240.9,Credit Card,Returned,False,1686.3
+ORD00238,2024-02-07,CUST1433,Customer_177,Central,Apparel,Formal Shirt,9.0,4971.5,Unknown,Pending,False,44743.5
+ORD00285,2024-02-07,CUST1612,Customer_246,Central,Uncategorized,Sunscreen SPF50,7.0,2741.68,Net Banking,Completed,False,19191.76
+ORD00469,2024-02-07,CUST1687,Customer_35,East,Books,Kids Storybook,2.0,1107.48,Cash on Delivery,Pending,False,2214.96
+ORD00185,2024-02-08,CUST1372,Customer_263,South,Toys,Building Blocks,1.0,842.48,Cash on Delivery,Pending,False,842.48
+ORD00264,2024-02-10,CUST1982,Customer_208,West,Toys,Action Figure,10.0,1329.56,Debit Card,Returned,False,13295.6
+ORD00431,2024-02-10,CUST1454,Customer_294,West,Toys,Remote Car,2.0,4304.46,Net Banking,Returned,False,8608.92
+ORD00030,2024-02-11,CUST1070,Customer_305,North,Electronics,Power Bank,4.0,2108.31,Cash on Delivery,Cancelled,False,8433.24
+ORD00474,2024-02-11,CUST1879,Customer_72,Unspecified,Books,Kids Storybook,4.0,1426.69,Credit Card,Pending,False,5706.76
+ORD00266,2024-02-12,CUST1865,Customer_223,East,Electronics,Smartphone Case,10.0,4890.05,Credit Card,Completed,False,48900.5
+ORD00328,2024-02-12,CUST1284,Customer_43,North,Beauty,Sunscreen SPF50,2.0,2629.83,Debit Card,Cancelled,False,5259.66
+ORD00169,2024-02-16,CUST1836,Unknown Customer,East,Toys,Action Figure,1.0,2162.25,Net Banking,Completed,False,2162.25
+ORD00012,2024-02-16,CUST1881,Customer_57,South,Sports,Football,3.0,3991.58,Net Banking,Completed,False,11974.74
+ORD00135,2024-02-17,CUST1098,Customer_382,East,Electronics,Wireless Earbuds,3.0,2848.4,Cash on Delivery,Completed,False,8545.2
+ORD00276,2024-02-17,CUST1884,Customer_198,Unspecified,Home & Kitchen,Cushion Cover,5.0,2156.98,Credit Card,Pending,False,10784.9
+ORD00161,2024-02-17,CUST1520,Customer_186,North,Books,Kids Storybook,6.0,1648.0,Unknown,Returned,False,9888.0
+ORD00023,2024-02-19,CUST1362,Customer_217,West,Apparel,Cotton T-Shirt,8.0,4339.61,Credit Card,Pending,False,34716.88
+ORD00183,2024-02-22,CUST1335,Customer_339,East,Home & Kitchen,LED Bulb Pack,5.0,2312.69,Net Banking,Cancelled,False,11563.45
+ORD00481,2024-02-22,CUST1854,Customer_380,East,Electronics,Bluetooth Speaker,10.0,2790.1,Debit Card,Pending,False,27901.0
+ORD00365,2024-02-23,CUST1144,Customer_170,North,Apparel,Formal Shirt,4.0,1832.03,UPI,Cancelled,False,7328.12
+ORD00595,2024-02-24,CUST1189,Customer_14,Central,Toys,Remote Car,10.0,1444.28,Cash on Delivery,Completed,False,14442.8
+ORD00112,2024-02-24,CUST1390,Customer_293,East,Beauty,Sunscreen SPF50,10.0,1584.98,UPI,Completed,False,15849.8
+ORD00119,2024-02-25,CUST1482,Customer_13,Central,Beauty,Lipstick,9.0,1740.83,Cash on Delivery,Cancelled,False,15667.47
+ORD00558,2024-02-26,CUST1535,Customer_338,North,Beauty,Lipstick,1.0,4200.69,Debit Card,Cancelled,False,4200.69
+ORD00143,2024-02-28,CUST1440,Customer_57,East,Apparel,Formal Shirt,10.0,2510.17,UPI,Completed,False,25101.7
+ORD00121,2024-02-29,CUST1240,Customer_276,South,Home & Kitchen,Storage Containers,7.0,2350.17,Cash on Delivery,Pending,False,16451.19
+ORD00083,2024-03-01,CUST1620,Customer_306,Central,Electronics,Smartphone Case,4.0,3912.11,Net Banking,Pending,False,15648.44
+ORD00451,2024-03-02,CUST1041,Customer_220,East,Apparel,Formal Shirt,9.0,1431.56,Debit Card,Completed,False,12884.04
+ORD00078,2024-03-02,CUST1196,Customer_111,West,Apparel,Running Shoes,5.0,3664.24,Cash on Delivery,Completed,False,18321.2
+ORD00181,2024-03-04,CUST1447,Customer_205,West,Home & Kitchen,LED Bulb Pack,7.0,1794.33,Debit Card,Pending,False,12560.31
+ORD00381,2024-03-05,CUST1433,Customer_41,West,Toys,Remote Car,4.0,4986.76,Debit Card,Completed,False,19947.04
+ORD00486,2024-03-06,CUST1137,Customer_323,Central,Apparel,Cotton T-Shirt,1.0,4470.37,Debit Card,Completed,False,4470.37
+ORD00470,2024-03-06,CUST1102,Customer_146,Central,Home & Kitchen,LED Bulb Pack,2.0,4515.58,Unknown,Pending,False,9031.16
+ORD00127,2024-03-07,CUST1817,Customer_90,North,Home & Kitchen,Blender,1.0,789.25,UPI,Cancelled,False,789.25
+ORD00520,2024-03-08,CUST1833,Customer_52,East,Apparel,Formal Shirt,4.0,2843.4,Net Banking,Cancelled,False,11373.6
+ORD00477,2024-03-09,CUST1513,Customer_262,North,Toys,Puzzle Set,7.0,1914.75,Credit Card,Pending,False,13403.25
+ORD00063,2024-03-10,CUST1186,Customer_26,East,Books,Biography,7.0,1737.66,Net Banking,Returned,False,12163.62
+ORD00534,2024-03-10,CUST1605,Customer_306,West,Home & Kitchen,Football,10.0,2259.64,Cash on Delivery,Returned,False,22596.4
+ORD00442,2024-03-11,CUST1616,Customer_359,Central,Beauty,Moisturizer,5.0,4238.91,Cash on Delivery,Returned,False,21194.55
+ORD00222,2024-03-11,CUST1630,Customer_380,Central,Sports,Dumbbell Set,4.0,1325.92,Cash on Delivery,Cancelled,False,5303.68
+ORD00167,2024-03-11,CUST1053,Customer_329,Unspecified,Electronics,Board Game,6.0,2839.52,Credit Card,Pending,False,17037.12
+ORD00245,2024-03-12,CUST1239,Customer_375,Central,Toys,Building Blocks,6.0,2950.75,UPI,Cancelled,False,17704.5
+ORD00466,2024-03-13,CUST1042,Unknown Customer,Unspecified,Sports,Skipping Rope,10.0,2061.3,Cash on Delivery,Completed,False,20613.0
+ORD00576,2024-03-16,CUST1344,Customer_43,West,Toys,Action Figure,10.0,3764.78,Cash on Delivery,Pending,False,37647.8
+ORD00361,2024-03-16,CUST1792,Customer_57,Central,Electronics,Wireless Earbuds,6.0,4808.71,UPI,Pending,False,28852.26
+ORD00380,2024-03-16,CUST1972,Customer_388,West,Electronics,Kids Storybook,3.0,4752.95,Debit Card,Cancelled,False,14258.85
+ORD00429,2024-03-17,CUST1011,Customer_330,South,Electronics,Storage Containers,9.0,4266.9,Net Banking,Cancelled,False,38402.1
+ORD00484,2024-03-17,CUST1161,Customer_186,Central,Home & Kitchen,Blender,2.0,3356.38,Net Banking,Returned,False,6712.76
+ORD00058,2024-03-18,CUST1392,Customer_356,South,Electronics,Smartphone Case,4.0,461.51,Net Banking,Returned,False,1846.04
+ORD00377,2024-03-18,CUST1087,Customer_343,West,Sports,Yoga Mat,9.0,2157.84,Cash on Delivery,Cancelled,False,19420.56
+ORD00373,2024-03-19,CUST1369,Customer_2,West,Electronics,Football,2.0,1578.56,Cash on Delivery,Pending,False,3157.12
+ORD00581,2024-03-20,CUST1115,Customer_379,North,Home & Kitchen,Cookbook,4.0,4752.36,Debit Card,Returned,False,19009.44
+ORD00345,2024-03-25,CUST1477,Customer_161,West,Uncategorized,Cotton T-Shirt,2.0,2749.23,Debit Card,Pending,False,5498.46
+ORD00411,2024-03-26,CUST1843,Customer_24,East,Sports,Dumbbell Set,5.0,2361.24,Cash on Delivery,Completed,False,11806.2
+ORD00109,2024-03-28,CUST1080,Customer_313,West,Sports,Cricket Bat,10.0,3463.2,Net Banking,Completed,False,34632.0
+ORD00229,2024-03-30,CUST1846,Customer_219,East,Toys,Remote Car,6.0,570.68,Credit Card,Cancelled,False,3424.08
+ORD00363,2024-03-30,CUST1228,Customer_341,Central,Beauty,Lipstick,3.0,1985.16,UPI,Cancelled,False,5955.48
+ORD00025,2024-04-03,CUST1473,Customer_128,North,Apparel,Winter Jacket,8.0,4068.91,Cash on Delivery,Completed,False,32551.28
+ORD00295,2024-04-05,CUST1333,Customer_101,West,Electronics,Power Bank,2.0,1422.41,Net Banking,Completed,False,2844.82
+ORD00175,2024-04-05,CUST1536,Customer_185,North,Sports,Football,9.0,2788.8,Cash on Delivery,Completed,False,25099.2
+ORD00226,2024-04-05,CUST1897,Customer_20,North,Toys,Action Figure,5.0,2904.62,Credit Card,Returned,False,14523.1
+ORD00275,2024-04-05,CUST1459,Customer_286,South,Apparel,Cotton T-Shirt,9.0,2129.01,Credit Card,Completed,False,19161.09
+ORD00162,2024-04-08,CUST1140,Customer_80,North,Toys,Action Figure,5.0,4245.48,Credit Card,Completed,False,21227.4
+ORD00437,2024-04-10,CUST1123,Customer_202,South,Home & Kitchen,Cushion Cover,8.0,4149.09,Debit Card,Pending,False,33192.72
+ORD00578,2024-04-10,CUST1248,Customer_37,East,Beauty,Shampoo,7.0,1718.55,Cash on Delivery,Completed,False,12029.85
+ORD00210,2024-04-11,CUST1512,Unknown Customer,North,Home & Kitchen,Blender,1.0,814.63,UPI,Pending,False,814.63
+ORD00587,2024-04-11,CUST1574,Customer_365,North,Electronics,Smartphone Case,1.0,1349.85,Cash on Delivery,Returned,False,1349.85
+ORD00546,2024-04-11,CUST1752,Customer_395,North,Books,Fiction Novel,9.0,3380.14,Debit Card,Pending,False,30421.26
+ORD00548,2024-04-11,CUST1908,Customer_27,South,Books,Cookbook,2.0,1294.43,Net Banking,Returned,False,2588.86
+ORD00418,2024-04-12,CUST1851,Customer_268,South,Apparel,Formal Shirt,6.0,3561.67,UPI,Cancelled,False,21370.02
+ORD00446,2024-04-12,CUST1768,Customer_83,East,Electronics,Wireless Earbuds,5.0,860.18,Credit Card,Pending,False,4300.9
+ORD00190,2024-04-12,CUST1138,Customer_38,West,Books,Biography,3.0,4508.59,Net Banking,Completed,False,13525.77
+ORD00559,2024-04-13,CUST1497,Customer_99,North,Toys,Building Blocks,1.0,2919.41,Net Banking,Pending,False,2919.41
+ORD00096,2024-04-14,CUST1562,Unknown Customer,East,Beauty,Face Wash,8.0,4422.11,Net Banking,Completed,False,35376.88
+ORD00447,2024-04-14,CUST1367,Customer_232,North,Toys,Puzzle Set,10.0,4359.97,Cash on Delivery,Cancelled,False,43599.7
+ORD00592,2024-04-15,CUST1594,Customer_278,South,Sports,Cricket Bat,3.0,1648.64,Cash on Delivery,Cancelled,False,4945.92
+ORD00513,2024-04-15,CUST1207,Customer_128,Central,Apparel,Running Shoes,6.0,906.58,Unknown,Completed,False,5439.48
+ORD00126,2024-04-16,CUST1832,Customer_120,South,Toys,Board Game,3.0,3974.92,Cash on Delivery,Completed,False,11924.76
+ORD00530,2024-04-17,CUST1406,Customer_53,Unspecified,Home & Kitchen,Non-stick Pan,2.0,4693.45,Net Banking,Completed,False,9386.9
+ORD00267,2024-04-18,CUST1277,Customer_24,North,Electronics,Smartphone Case,5.0,4511.66,Cash on Delivery,Pending,False,22558.3
+ORD00010,2024-04-18,CUST1217,Customer_336,West,Home & Kitchen,Non-stick Pan,7.0,4440.71,Net Banking,Cancelled,False,31084.97
+ORD00523,2024-04-20,CUST1487,Customer_323,North,Electronics,Cotton T-Shirt,8.0,3761.28,UPI,Returned,False,30090.24
+ORD00206,2024-04-20,CUST1049,Customer_26,East,Beauty,Moisturizer,8.0,3047.97,Net Banking,Returned,False,24383.76
+ORD00123,2024-04-21,CUST1455,Customer_121,East,Books,Cookbook,2.0,4907.5,UPI,Completed,False,9815.0
+ORD00512,2024-04-21,CUST1187,Customer_383,South,Home & Kitchen,LED Bulb Pack,8.0,3724.99,Debit Card,Pending,False,29799.92
+ORD00114,2024-04-22,CUST1635,Customer_129,South,Electronics,Dumbbell Set,2.0,4531.51,Credit Card,Returned,False,9063.02
+ORD00061,2024-04-22,CUST1446,Customer_249,North,Apparel,Winter Jacket,7.0,1780.23,Net Banking,Pending,False,12461.61
+ORD00403,2024-04-23,CUST1228,Customer_382,East,Home & Kitchen,Non-stick Pan,7.0,3972.24,Unknown,Returned,False,27805.68
+ORD00107,2024-04-26,CUST1444,Customer_51,North,Books,Cookbook,8.0,956.87,UPI,Completed,False,7654.96
+ORD00334,2024-04-26,CUST1045,Customer_7,South,Sports,Yoga Mat,1.0,2438.06,Net Banking,Cancelled,False,2438.06
+ORD00021,2024-04-27,CUST1927,Customer_17,East,Books,Fiction Novel,2.0,2643.66,UPI,Pending,False,5287.32
+ORD00586,2024-04-28,CUST1520,Customer_364,North,Toys,Action Figure,6.0,2500.61,Cash on Delivery,Completed,False,15003.66
+ORD00225,2024-04-28,CUST1935,Customer_90,North,Home & Kitchen,Kids Storybook,3.0,4679.52,Credit Card,Pending,False,14038.56
+ORD00596,2024-04-28,CUST1703,Customer_14,East,Apparel,Formal Shirt,2.0,3487.49,Net Banking,Cancelled,False,6974.98
+ORD00480,2024-04-29,CUST1684,Customer_106,Central,Home & Kitchen,LED Bulb Pack,6.0,2032.25,Net Banking,Completed,False,12193.5
+ORD00570,2024-04-29,CUST1830,Customer_154,North,Sports,Cricket Bat,10.0,0.01,Debit Card,Pending,False,0.1
+ORD00032,2024-05-02,CUST1405,Customer_68,East,Books,Cookbook,8.0,1683.46,Credit Card,Completed,False,13467.68
+ORD00017,2024-05-03,CUST1087,Customer_375,West,Apparel,Cotton T-Shirt,2.0,4893.22,Cash on Delivery,Cancelled,False,9786.44
+ORD00203,2024-05-03,CUST1125,Customer_137,Unspecified,Electronics,Bluetooth Speaker,4.0,833.26,Credit Card,Returned,False,3333.04
+ORD00052,2024-05-05,CUST1625,Customer_394,North,Electronics,Wireless Earbuds,8.0,2160.04,Cash on Delivery,Cancelled,False,17280.32
+ORD00011,2024-05-06,CUST1764,Customer_300,West,Home & Kitchen,Blender,10.0,2087.09,Debit Card,Cancelled,False,20870.9
+ORD00316,2024-05-08,CUST1380,Customer_341,South,Books,Cookbook,1.0,2072.26,UPI,Pending,False,2072.26
+ORD00151,2024-05-11,CUST1177,Customer_309,North,Electronics,Smartphone Case,2.0,1009.16,Net Banking,Pending,False,2018.32
+ORD00346,2024-05-15,CUST1092,Customer_81,East,Uncategorized,Storage Containers,10.0,345.6,UPI,Cancelled,False,3456.0
+ORD00085,2024-05-15,CUST1160,Customer_123,Central,Books,Self-Help Book,9.0,514.06,Credit Card,Pending,False,4626.54
+ORD00042,2024-05-16,CUST1806,Customer_360,North,Toys,Remote Car,7.0,4380.01,Net Banking,Cancelled,False,30660.07
+ORD00542,2024-05-17,CUST1732,Customer_225,North,Electronics,Bluetooth Speaker,4.0,587.46,Credit Card,Pending,False,2349.84
+ORD00057,2024-05-20,CUST1079,Customer_366,East,Uncategorized,Moisturizer,4.0,1467.82,UPI,Completed,False,5871.28
+ORD00113,2024-05-20,CUST1579,Customer_352,North,Toys,Action Figure,10.0,3764.08,UPI,Cancelled,False,37640.8
+ORD00004,2024-05-22,CUST1220,Customer_391,East,Beauty,Lipstick,2.0,599.82,Credit Card,Returned,False,1199.64
+ORD00101,2024-05-24,CUST1857,Customer_301,Central,Toys,Building Blocks,8.0,4346.51,Net Banking,Completed,False,34772.08
+ORD00034,2024-05-25,CUST1448,Customer_279,East,Electronics,Running Shoes,10.0,4921.69,Cash on Delivery,Completed,False,49216.9
+ORD00502,2024-05-26,CUST1968,Customer_397,Central,Sports,Skipping Rope,8.0,2279.01,Debit Card,Pending,False,18232.08
+ORD00503,2024-05-26,CUST1034,Customer_307,Central,Toys,Board Game,9.0,3537.48,Cash on Delivery,Cancelled,False,31837.32
+ORD00171,2024-05-26,CUST1712,Customer_72,West,Apparel,Cotton T-Shirt,8.0,3134.44,Credit Card,Completed,False,25075.52
+ORD00308,2024-05-28,CUST1975,Customer_264,North,Books,Cookbook,3.0,4819.44,Net Banking,Completed,False,14458.32
+ORD00302,2024-05-29,CUST1281,Customer_116,Central,Toys,Remote Car,5.0,965.81,Net Banking,Completed,False,4829.05
+ORD00338,2024-05-29,CUST1757,Customer_319,South,Home & Kitchen,Blender,8.0,1936.13,Net Banking,Cancelled,False,15489.04
+ORD00402,2024-05-30,CUST1482,Customer_66,West,Sports,Cricket Bat,9.0,3850.15,Debit Card,Pending,False,34651.35
+ORD00400,2024-05-31,CUST1928,Customer_215,West,Electronics,USB-C Cable,7.0,3723.15,Cash on Delivery,Pending,False,26062.05
+ORD00324,2024-05-31,CUST1802,Unknown Customer,West,Apparel,Winter Jacket,7.0,696.81,Net Banking,Pending,False,4877.67
+ORD00035,2024-06-02,CUST1961,Customer_69,East,Books,Kids Storybook,2.0,4465.11,Cash on Delivery,Cancelled,False,8930.22
+ORD00379,2024-06-02,CUST1404,Customer_366,North,Apparel,Winter Jacket,9.0,2920.42,Cash on Delivery,Completed,False,26283.78
+ORD00160,2024-06-07,CUST1132,Customer_305,North,Apparel,Running Shoes,5.0,2860.77,UPI,Cancelled,False,14303.85
+ORD00532,2024-06-07,CUST1253,Customer_378,East,Books,Biography,8.0,3188.43,Debit Card,Completed,False,25507.44
+ORD00134,2024-06-09,CUST1320,Customer_341,East,Beauty,Face Wash,6.0,4774.92,Net Banking,Completed,False,28649.52
+ORD00472,2024-06-09,CUST1804,Customer_114,Central,Apparel,Cotton T-Shirt,5.0,4224.53,Debit Card,Pending,False,21122.65
+ORD00344,2024-06-11,CUST1278,Customer_120,North,Books,Cookbook,4.0,810.14,Cash on Delivery,Completed,False,3240.56
+ORD00291,2024-06-12,CUST1307,Customer_23,North,Beauty,Sunscreen SPF50,1.0,4268.52,Credit Card,Pending,False,4268.52
+ORD00369,2024-06-12,CUST1974,Customer_54,South,Home & Kitchen,Non-stick Pan,6.0,975.01,Net Banking,Cancelled,False,5850.06
+ORD00430,2024-06-13,CUST1338,Customer_143,North,Electronics,USB-C Cable,9.0,1230.13,Net Banking,Pending,False,11071.17
+ORD00093,2024-06-13,CUST1878,Customer_83,East,Beauty,Lipstick,7.0,3514.32,UPI,Pending,False,24600.24
+ORD00355,2024-06-13,CUST1276,Customer_93,North,Sports,Skipping Rope,6.0,3046.01,Credit Card,Returned,False,18276.06
+ORD00230,2024-06-14,CUST1006,Customer_134,Unspecified,Apparel,Winter Jacket,4.0,2316.67,UPI,Returned,False,9266.68
+ORD00566,2024-06-15,CUST1422,Unknown Customer,West,Uncategorized,Cushion Cover,6.0,3100.8,Cash on Delivery,Completed,False,18604.8
+ORD00282,2024-06-15,CUST1287,Customer_202,East,Toys,Remote Car,2.0,4670.53,Debit Card,Completed,False,9341.06
+ORD00104,2024-06-18,CUST1895,Customer_226,North,Sports,Skipping Rope,9.0,4565.64,Credit Card,Pending,False,41090.76
+ORD00077,2024-06-18,CUST1719,Customer_233,East,Uncategorized,Shampoo,5.0,1369.31,Credit Card,Pending,False,6846.55
+ORD00250,2024-06-18,CUST1944,Customer_231,East,Home & Kitchen,Blender,2.0,2747.83,Debit Card,Completed,False,5495.66
+ORD00102,2024-06-19,CUST1466,Customer_165,South,Toys,Lipstick,4.0,2923.22,Debit Card,Pending,False,11692.88
+ORD00332,2024-06-20,CUST1278,Customer_269,North,Electronics,Wireless Earbuds,5.0,3604.77,Cash on Delivery,Pending,False,18023.85
+ORD00406,2024-06-24,CUST1583,Unknown Customer,South,Apparel,Denim Jeans,6.0,4332.61,Debit Card,Completed,False,25995.66
+ORD00177,2024-06-25,CUST1750,Customer_337,North,Toys,Building Blocks,10.0,3715.66,UPI,Cancelled,False,37156.6
+ORD00289,2024-06-25,CUST1494,Customer_54,East,Sports,Cricket Bat,7.0,4614.66,Credit Card,Completed,False,32302.62
+ORD00393,2024-06-25,CUST1857,Customer_133,North,Toys,Dumbbell Set,5.0,283.13,Credit Card,Cancelled,False,1415.65
+ORD00290,2024-06-27,CUST1351,Customer_234,South,Toys,Remote Car,9.0,2492.19,Net Banking,Completed,False,22429.71
+ORD00043,2024-06-28,CUST1840,Customer_117,South,Apparel,Winter Jacket,1.0,3351.16,Net Banking,Returned,False,3351.16
+ORD00184,2024-06-28,CUST1043,Customer_373,North,Books,Biography,10.0,4991.03,UPI,Pending,False,49910.3
+ORD00504,2024-07-03,CUST1670,Customer_1,South,Books,Fiction Novel,2.0,4984.56,Net Banking,Returned,False,9969.12
+ORD00482,2024-07-06,CUST1529,Customer_129,West,Electronics,Biography,4.0,2654.4,UPI,Returned,False,10617.6
+ORD00182,2024-07-07,CUST1820,Customer_43,West,Books,Biography,2.0,2238.44,Unknown,Completed,False,4476.88
+ORD00376,2024-07-08,CUST1456,Customer_23,East,Home & Kitchen,Storage Containers,8.0,2405.53,Debit Card,Returned,False,19244.24
+ORD00240,2024-07-11,CUST1699,Customer_339,Central,Toys,Action Figure,3.0,3319.64,UPI,Completed,False,9958.92
+ORD00248,2024-07-11,CUST1772,Customer_276,Central,Apparel,Running Shoes,4.0,4269.3,UPI,Pending,False,17077.2
+ORD00414,2024-07-11,CUST1789,Customer_274,Central,Books,Fiction Novel,1.0,3030.53,Credit Card,Pending,False,3030.53
+ORD00254,2024-07-13,CUST1546,Customer_333,East,Toys,Puzzle Set,5.0,1418.57,Cash on Delivery,Pending,False,7092.85
+ORD00280,2024-07-13,CUST1450,Customer_172,West,Toys,Board Game,10.0,810.2,UPI,Completed,False,8102.0
+ORD00526,2024-07-14,CUST1474,Customer_324,South,Electronics,Face Wash,3.0,3256.82,UPI,Pending,False,9770.46
+ORD00013,2024-07-14,CUST1541,Customer_129,Central,Electronics,USB-C Cable,1.0,3449.37,Credit Card,Pending,False,3449.37
+ORD00572,2024-07-14,CUST1798,Customer_29,South,Books,Kids Storybook,6.0,4416.99,Net Banking,Pending,False,26501.94
+ORD00155,2024-07-15,CUST1594,Customer_284,North,Electronics,Skipping Rope,8.0,4558.89,Cash on Delivery,Pending,False,36471.12
+ORD00170,2024-07-16,CUST1383,Customer_115,North,Sports,Blender,6.0,4664.51,UPI,Cancelled,False,27987.06
+ORD00329,2024-07-19,CUST1317,Customer_358,West,Sports,Dumbbell Set,4.0,430.84,Credit Card,Pending,False,1723.36
+ORD00588,2024-07-20,CUST1018,Customer_178,East,Home & Kitchen,Storage Containers,6.0,3182.37,Debit Card,Completed,False,19094.22
+ORD00241,2024-07-20,CUST1745,Customer_115,North,Apparel,Formal Shirt,1.0,4895.68,Net Banking,Pending,False,4895.68
+ORD00188,2024-07-22,CUST1665,Customer_143,South,Sports,Dumbbell Set,2.0,275.68,Debit Card,Pending,False,551.36
+ORD00068,2024-07-22,CUST1077,Customer_304,South,Home & Kitchen,Biography,2.0,3531.39,UPI,Pending,False,7062.78
+ORD00397,2024-07-22,CUST1007,Customer_262,East,Sports,Skipping Rope,9.0,3289.61,Cash on Delivery,Returned,False,29606.49
+ORD00180,2024-07-22,CUST1259,Customer_19,South,Home & Kitchen,Cushion Cover,5.0,1881.32,Credit Card,Pending,False,9406.6
+ORD00577,2024-07-23,CUST1792,Unknown Customer,North,Home & Kitchen,Non-stick Pan,3.0,2482.47,Debit Card,Pending,False,7447.41
+ORD00082,2024-07-24,CUST1075,Customer_296,North,Sports,Building Blocks,3.0,873.61,Cash on Delivery,Returned,False,2620.83
+ORD00390,2024-07-25,CUST1799,Customer_269,Central,Home & Kitchen,Cushion Cover,1.0,992.63,Debit Card,Completed,False,992.63
+ORD00232,2024-07-26,CUST1706,Customer_61,East,Home & Kitchen,Blender,6.0,3130.93,Debit Card,Cancelled,False,18785.58
+ORD00224,2024-07-27,CUST1488,Customer_334,South,Sports,Cricket Bat,5.0,1707.66,Credit Card,Completed,False,8538.3
+ORD00495,2024-07-28,CUST1193,Customer_3,North,Sports,Skipping Rope,10.0,2684.32,Cash on Delivery,Completed,False,26843.2
+ORD00301,2024-07-28,CUST1425,Customer_364,South,Sports,Football,8.0,961.18,Cash on Delivery,Completed,False,7689.44
+ORD00239,2024-07-28,CUST1787,Customer_70,West,Electronics,Bluetooth Speaker,6.0,4965.35,Net Banking,Pending,False,29792.1
+ORD00059,2024-07-31,CUST1211,Unknown Customer,West,Sports,Football,10.0,4738.4,Credit Card,Completed,False,47384.0
+ORD00591,2024-08-01,CUST1586,Customer_79,West,Sports,Self-Help Book,5.0,4562.22,UPI,Pending,False,22811.1
+ORD00204,2024-08-02,CUST1985,Customer_82,Unspecified,Toys,Shampoo,10.0,3647.47,Debit Card,Cancelled,False,36474.7
+ORD00003,2024-08-02,CUST1459,Customer_302,East,Books,Kids Storybook,1.0,3830.22,Debit Card,Pending,False,3830.22
+ORD00543,2024-08-03,CUST1804,Customer_256,East,Apparel,Running Shoes,8.0,3530.13,Credit Card,Returned,False,28241.04
+ORD00579,2024-08-04,CUST1356,Customer_98,East,Electronics,USB-C Cable,6.0,3030.3,Credit Card,Returned,False,18181.8
+ORD00497,2024-08-04,CUST1626,Customer_142,West,Home & Kitchen,Cushion Cover,4.0,2154.16,Cash on Delivery,Pending,False,8616.64
+ORD00242,2024-08-05,CUST1843,Customer_118,South,Books,Kids Storybook,8.0,1828.87,UPI,Cancelled,False,14630.96
+ORD00422,2024-08-06,CUST1097,Customer_389,South,Home & Kitchen,LED Bulb Pack,1.0,4282.19,Debit Card,Returned,False,4282.19
+ORD00317,2024-08-07,CUST1720,Customer_49,North,Books,Self-Help Book,4.0,2462.51,Debit Card,Completed,False,9850.04
+ORD00294,2024-08-07,CUST1004,Customer_361,South,Beauty,Shampoo,4.0,1499.97,Credit Card,Completed,False,5999.88
+ORD00351,2024-08-09,CUST1508,Customer_16,West,Apparel,Formal Shirt,7.0,988.11,Debit Card,Cancelled,False,6916.77
+ORD00412,2024-08-10,CUST1350,Customer_251,East,Toys,Dumbbell Set,4.0,949.69,Net Banking,Completed,False,3798.76
+ORD00046,2024-08-11,CUST1394,Customer_296,North,Books,Cookbook,5.0,365.27,Net Banking,Completed,False,1826.35
+ORD00090,2024-08-12,CUST1612,Customer_21,West,Sports,Football,6.0,3078.01,Credit Card,Completed,False,18468.06
+ORD00352,2024-08-16,CUST1035,Customer_315,Central,Home & Kitchen,LED Bulb Pack,10.0,1342.06,UPI,Pending,False,13420.6
+ORD00305,2024-08-18,CUST1356,Customer_45,West,Toys,Building Blocks,2.0,3911.81,Debit Card,Cancelled,False,7823.62
+ORD00462,2024-08-18,CUST1443,Customer_162,North,Beauty,Sunscreen SPF50,7.0,3415.5,Cash on Delivery,Completed,False,23908.5
+ORD00154,2024-08-19,CUST1058,Customer_189,North,Electronics,Storage Containers,2.0,3276.63,Credit Card,Completed,False,6553.26
+ORD00233,2024-08-20,CUST1425,Customer_360,Central,Beauty,Moisturizer,8.0,3823.15,Debit Card,Cancelled,False,30585.2
+ORD00391,2024-08-21,CUST1940,Customer_185,South,Apparel,Cotton T-Shirt,5.0,1936.51,Net Banking,Completed,False,9682.55
+ORD00333,2024-08-21,CUST1056,Customer_256,Central,Electronics,USB-C Cable,3.0,1933.29,UPI,Completed,False,5799.87
+ORD00421,2024-08-21,CUST1270,Customer_238,North,Books,Self-Help Book,2.0,4093.92,Credit Card,Returned,False,8187.84
+ORD00148,2024-08-23,CUST1090,Customer_224,North,Apparel,Formal Shirt,4.0,2263.03,Net Banking,Completed,False,9052.12
+ORD00517,2024-08-23,CUST1705,Customer_5,North,Home & Kitchen,Power Bank,4.0,1990.23,Credit Card,Returned,False,7960.92
+ORD00110,2024-08-24,CUST1470,Customer_131,North,Apparel,Denim Jeans,8.0,4520.87,Cash on Delivery,Cancelled,False,36166.96
+ORD00098,2024-08-24,CUST1663,Customer_79,West,Apparel,Cotton T-Shirt,5.0,2618.03,UPI,Pending,False,13090.15
+ORD00054,2024-08-25,CUST1570,Customer_128,North,Toys,Board Game,8.0,796.69,Net Banking,Pending,False,6373.52
+ORD00050,2024-08-26,CUST1452,Unknown Customer,South,Sports,Dumbbell Set,9.0,2444.95,Debit Card,Pending,False,22004.55
+ORD00195,2024-08-26,CUST1131,Customer_400,Central,Electronics,USB-C Cable,10.0,1032.52,Debit Card,Pending,False,10325.2
+ORD00597,2024-08-28,CUST1188,Customer_199,West,Sports,Skipping Rope,8.0,816.94,Debit Card,Cancelled,False,6535.52
+ORD00086,2024-08-28,CUST1033,Customer_119,East,Toys,Shampoo,5.0,3559.49,Net Banking,Completed,False,17797.45
+ORD00153,2024-08-28,CUST1646,Customer_156,East,Electronics,Face Wash,10.0,422.43,Cash on Delivery,Completed,False,4224.3
+ORD00099,2024-08-29,CUST1467,Customer_283,West,Toys,Action Figure,7.0,1074.46,Cash on Delivery,Completed,False,7521.22
+ORD00405,2024-08-29,CUST1512,Customer_62,West,Sports,Yoga Mat,9.0,1597.03,Credit Card,Cancelled,False,14373.27
+ORD00375,2024-08-29,CUST1916,Customer_339,North,Toys,Action Figure,2.0,3263.05,Net Banking,Cancelled,False,6526.1
+ORD00521,2024-08-30,CUST1180,Unknown Customer,South,Apparel,Denim Jeans,3.0,4978.47,Cash on Delivery,Completed,False,14935.41
+ORD00395,2024-08-30,CUST1662,Customer_89,Central,Electronics,Wireless Earbuds,1.0,1235.28,Cash on Delivery,Returned,False,1235.28
+ORD00066,2024-08-30,CUST1577,Customer_112,West,Apparel,Denim Jeans,5.0,3869.46,Debit Card,Completed,False,19347.3
+ORD00360,2024-09-01,CUST1339,Customer_315,South,Electronics,Power Bank,3.0,1802.68,Debit Card,Returned,False,5408.04
+ORD00353,2024-09-02,CUST1089,Customer_144,West,Beauty,Shampoo,3.0,2183.29,Cash on Delivery,Cancelled,False,6549.87
+ORD00281,2024-09-02,CUST1181,Customer_204,East,Books,Self-Help Book,5.0,3714.14,Net Banking,Completed,False,18570.7
+ORD00081,2024-09-02,CUST1348,Customer_95,North,Home & Kitchen,Storage Containers,5.0,4714.16,Net Banking,Completed,False,23570.8
+ORD00485,2024-09-03,CUST1490,Customer_108,Central,Books,Fiction Novel,3.0,3289.21,Net Banking,Completed,False,9867.63
+ORD00398,2024-09-03,CUST1344,Customer_142,East,Home & Kitchen,Non-stick Pan,5.0,1416.56,UPI,Cancelled,False,7082.8
+ORD00440,2024-09-04,CUST1708,Customer_297,South,Toys,Board Game,3.0,652.24,Cash on Delivery,Completed,False,1956.72
+ORD00408,2024-09-07,CUST1132,Customer_315,West,Sports,Cricket Bat,7.0,2106.46,Net Banking,Pending,False,14745.22
+ORD00541,2024-09-08,CUST1328,Customer_10,South,Home & Kitchen,Cushion Cover,1.0,4853.12,Credit Card,Cancelled,False,4853.12
+ORD00053,2024-09-10,CUST1249,Customer_76,North,Home & Kitchen,Biography,2.0,3925.34,Debit Card,Cancelled,False,7850.68
+ORD00200,2024-09-11,CUST1657,Customer_155,West,Sports,Yoga Mat,4.0,4052.74,Net Banking,Returned,False,16210.96
+ORD00331,2024-09-11,CUST1535,Customer_265,East,Electronics,Smartphone Case,3.0,1953.57,Unknown,Pending,False,5860.71
+ORD00419,2024-09-11,CUST1704,Customer_247,North,Electronics,Power Bank,4.0,163.28,Credit Card,Completed,False,653.12
+ORD00519,2024-09-12,CUST1215,Customer_215,North,Home & Kitchen,Blender,6.0,4293.48,UPI,Pending,False,25760.88
+ORD00270,2024-09-13,CUST1054,Customer_51,West,Electronics,Fiction Novel,4.0,4217.57,UPI,Completed,False,16870.28
+ORD00216,2024-09-13,CUST1893,Customer_377,South,Electronics,Winter Jacket,3.0,2665.61,Cash on Delivery,Returned,False,7996.83
+ORD00444,2024-09-14,CUST1727,Customer_60,East,Books,Self-Help Book,9.0,2479.79,Cash on Delivery,Pending,False,22318.11
+ORD00492,2024-09-14,CUST1095,Customer_247,South,Sports,Board Game,10.0,2765.54,Credit Card,Pending,False,27655.4
+ORD00298,2024-09-18,CUST1428,Customer_306,West,Home & Kitchen,Blender,10.0,2010.99,Debit Card,Pending,False,20109.9
+ORD00129,2024-09-19,CUST1462,Unknown Customer,South,Beauty,Lipstick,10.0,360.32,Cash on Delivery,Returned,False,3603.2
+ORD00458,2024-09-20,CUST1498,Customer_23,East,Sports,Dumbbell Set,4.0,1703.52,Credit Card,Completed,False,6814.08
+ORD00051,2024-09-20,CUST1095,Customer_385,South,Electronics,Bluetooth Speaker,5.0,1239.51,Debit Card,Cancelled,False,6197.55
+ORD00568,2024-09-22,CUST1911,Customer_155,North,Sports,Yoga Mat,5.0,4924.31,Debit Card,Returned,False,24621.55
+ORD00454,2024-09-23,CUST1805,Customer_259,Unspecified,Apparel,Denim Jeans,7.0,2783.94,Net Banking,Completed,False,19487.58
+ORD00583,2024-09-24,CUST1561,Unknown Customer,Unspecified,Apparel,Formal Shirt,3.0,3521.1,Credit Card,Pending,False,10563.3
+ORD00263,2024-09-25,CUST1246,Unknown Customer,Central,Electronics,Wireless Earbuds,9.0,1374.23,UPI,Returned,False,12368.07
+ORD00194,2024-09-26,CUST1787,Customer_210,Central,Beauty,Sunscreen SPF50,2.0,757.83,UPI,Pending,False,1515.66
+ORD00217,2024-09-26,CUST1321,Customer_89,West,Books,Biography,9.0,1810.29,UPI,Pending,False,16292.61
+ORD00325,2024-09-27,CUST1369,Customer_163,South,Sports,Yoga Mat,7.0,4324.95,Cash on Delivery,Pending,False,30274.65
+ORD00555,2024-09-28,CUST1460,Customer_152,East,Apparel,Cotton T-Shirt,9.0,1930.5,Credit Card,Pending,False,17374.5
+ORD00150,2024-09-28,CUST1927,Customer_398,East,Books,Fiction Novel,6.0,3677.79,Debit Card,Cancelled,False,22066.74
+ORD00356,2024-09-28,CUST1785,Customer_300,South,Toys,USB-C Cable,3.0,635.65,Debit Card,Returned,False,1906.95
+ORD00459,2024-09-30,CUST1641,Customer_34,South,Apparel,Formal Shirt,4.0,4345.01,Net Banking,Completed,False,17380.04
+ORD00409,2024-09-30,CUST1748,Customer_192,North,Electronics,Wireless Earbuds,6.0,3820.71,Cash on Delivery,Cancelled,False,22924.26
+ORD00016,2024-10-03,CUST1613,Unknown Customer,West,Toys,Remote Car,1.0,692.56,UPI,Returned,False,692.56
+ORD00535,2024-10-03,CUST1824,Customer_46,West,Home & Kitchen,Storage Containers,5.0,1924.05,UPI,Cancelled,False,9620.25
+ORD00359,2024-10-04,CUST1179,Customer_252,North,Toys,Action Figure,2.0,422.41,Cash on Delivery,Cancelled,False,844.82
+ORD00476,2024-10-05,CUST1669,Customer_397,South,Sports,Dumbbell Set,6.0,2053.62,Cash on Delivery,Pending,False,12321.72
+ORD00554,2024-10-05,CUST1331,Customer_375,Central,Sports,Cricket Bat,5.0,4358.16,Cash on Delivery,Completed,False,21790.8
+ORD00368,2024-10-06,CUST1103,Customer_246,Central,Beauty,Lipstick,4.0,938.88,Credit Card,Completed,False,3755.52
+ORD00178,2024-10-06,CUST1833,Customer_330,South,Home & Kitchen,Bluetooth Speaker,8.0,4906.97,Unknown,Pending,False,39255.76
+ORD00370,2024-10-07,CUST1346,Customer_305,West,Books,Fiction Novel,8.0,3566.85,Net Banking,Pending,False,28534.8
+ORD00303,2024-10-08,CUST1586,Customer_59,East,Books,Biography,9.0,4142.92,UPI,Completed,False,37286.28
+ORD00565,2024-10-08,CUST1516,Customer_173,North,Apparel,Denim Jeans,9.0,4992.4,Net Banking,Returned,False,44931.6
+ORD00038,2024-10-09,CUST1574,Customer_5,North,Electronics,Biography,2.0,4733.5,Debit Card,Completed,False,9467.0
+ORD00193,2024-10-10,CUST1478,Customer_283,South,Electronics,Bluetooth Speaker,10.0,4438.6,Credit Card,Returned,False,44386.0
+ORD00335,2024-10-10,CUST1229,Customer_165,South,Apparel,Cotton T-Shirt,7.0,4591.9,UPI,Returned,False,32143.3
+ORD00272,2024-10-10,CUST1442,Unknown Customer,Central,Apparel,Running Shoes,7.0,565.62,Cash on Delivery,Returned,False,3959.34
+ORD00074,2024-10-11,CUST1529,Customer_98,North,Sports,Dumbbell Set,4.0,3642.36,Net Banking,Completed,False,14569.44
+ORD00247,2024-10-11,CUST1048,Customer_177,West,Apparel,Winter Jacket,9.0,1695.86,Net Banking,Pending,False,15262.74
+ORD00159,2024-10-12,CUST1290,Customer_130,Central,Home & Kitchen,Non-stick Pan,3.0,1766.81,Cash on Delivery,Pending,False,5300.43
+ORD00552,2024-10-12,CUST1824,Customer_225,South,Apparel,Running Shoes,1.0,3492.86,UPI,Pending,False,3492.86
+ORD00564,2024-10-12,CUST1764,Customer_55,West,Books,Self-Help Book,6.0,3421.29,Net Banking,Completed,False,20527.74
+ORD00288,2024-10-12,CUST1456,Customer_192,North,Books,Kids Storybook,8.0,3895.86,Cash on Delivery,Pending,False,31166.88
+ORD00498,2024-10-13,CUST1259,Customer_158,Central,Apparel,Running Shoes,6.0,3904.84,Net Banking,Pending,False,23429.04
+ORD00269,2024-10-15,CUST1580,Customer_200,Central,Home & Kitchen,Blender,6.0,2011.65,Debit Card,Pending,False,12069.9
+ORD00033,2024-10-15,CUST1075,Customer_276,Central,Toys,Shampoo,9.0,1436.22,UPI,Completed,False,12925.98
+ORD00140,2024-10-16,CUST1071,Customer_73,North,Apparel,Denim Jeans,2.0,3768.64,Debit Card,Pending,False,7537.28
+ORD00208,2024-10-18,CUST1371,Customer_284,Unspecified,Beauty,Face Wash,2.0,2023.79,Net Banking,Completed,False,4047.58
+ORD00277,2024-10-19,CUST1701,Customer_195,Unspecified,Sports,Cricket Bat,3.0,1454.26,UPI,Pending,False,4362.78
+ORD00336,2024-10-19,CUST1122,Customer_258,North,Toys,Building Blocks,3.0,1232.45,Cash on Delivery,Completed,False,3697.35
+ORD00527,2024-10-19,CUST1869,Customer_37,Central,Books,Kids Storybook,3.0,1816.58,UPI,Returned,False,5449.74
+ORD00147,2024-10-20,CUST1726,Customer_328,West,Sports,Football,5.0,708.59,Credit Card,Returned,False,3542.95
+ORD00137,2024-10-22,CUST1158,Customer_337,West,Home & Kitchen,Non-stick Pan,4.0,4259.28,UPI,Completed,False,17037.12
+ORD00362,2024-10-27,CUST1344,Customer_155,East,Books,Biography,3.0,4882.92,Net Banking,Pending,False,14648.76
+ORD00212,2024-10-30,CUST1519,Customer_261,Central,Toys,Puzzle Set,8.0,3587.39,UPI,Pending,False,28699.12
+ORD00279,2024-10-31,CUST1468,Customer_55,South,Apparel,Winter Jacket,5.0,182.82,Net Banking,Returned,False,914.1
+ORD00055,2024-10-31,CUST1972,Customer_387,West,Sports,Skipping Rope,10.0,4102.78,Cash on Delivery,Pending,False,41027.8
+ORD00132,2024-11-01,CUST1464,Customer_259,Central,Home & Kitchen,Storage Containers,7.0,631.02,Credit Card,Pending,False,4417.14
+ORD00296,2024-11-01,CUST1625,Customer_201,Central,Books,Cookbook,2.0,1837.43,Net Banking,Completed,False,3674.86
+ORD00144,2024-11-02,CUST1007,Unknown Customer,East,Apparel,Winter Jacket,4.0,3871.65,UPI,Returned,False,15486.6
+ORD00323,2024-11-03,CUST1797,Customer_354,North,Sports,Skipping Rope,5.0,1146.41,Cash on Delivery,Completed,False,5732.05
+ORD00036,2024-11-05,CUST1734,Customer_176,South,Home & Kitchen,LED Bulb Pack,5.0,2601.23,UPI,Completed,False,13006.15
+ORD00156,2024-11-05,CUST1513,Customer_78,North,Apparel,Running Shoes,8.0,651.98,UPI,Pending,False,5215.84
+ORD00488,2024-11-06,CUST1888,Customer_247,South,Sports,Winter Jacket,4.0,150000.0,Cash on Delivery,Cancelled,True,600000.0
+ORD00600,2024-11-07,CUST1737,Customer_161,North,Electronics,Face Wash,10.0,4704.82,Unknown,Completed,False,47048.2
+ORD00131,2024-11-07,CUST1067,Customer_65,East,Sports,Bluetooth Speaker,10.0,3220.42,Unknown,Pending,False,32204.2
+ORD00218,2024-11-08,CUST1196,Customer_127,East,Toys,Puzzle Set,9.0,1597.72,UPI,Returned,False,14379.48
+ORD00330,2024-11-09,CUST1316,Customer_342,South,Electronics,USB-C Cable,2.0,211.43,Debit Card,Pending,False,422.86
+ORD00514,2024-11-10,CUST1782,Customer_278,North,Electronics,USB-C Cable,8.0,1950.3,UPI,Pending,False,15602.4
+ORD00500,2024-11-10,CUST1164,Customer_200,North,Toys,Board Game,2.0,4142.79,Net Banking,Completed,False,8285.58
+ORD00471,2024-11-11,CUST1710,Customer_300,South,Beauty,Lipstick,10.0,2899.28,UPI,Pending,False,28992.8
+ORD00049,2024-11-11,CUST1415,Customer_281,North,Sports,Moisturizer,5.0,1541.53,Net Banking,Completed,False,7707.65
+ORD00580,2024-11-11,CUST1638,Customer_75,West,Electronics,Running Shoes,1.0,4632.43,Debit Card,Cancelled,False,4632.43
+ORD00560,2024-11-15,CUST1050,Customer_188,South,Toys,Shampoo,10.0,3631.55,Credit Card,Cancelled,False,36315.5
+ORD00539,2024-11-16,CUST1529,Customer_392,Central,Sports,USB-C Cable,5.0,1530.68,Cash on Delivery,Returned,False,7653.4
+ORD00589,2024-11-16,CUST1899,Customer_199,North,Electronics,Non-stick Pan,9.0,4753.21,Debit Card,Cancelled,False,42778.89
+ORD00410,2024-11-16,CUST1231,Unknown Customer,East,Uncategorized,Wireless Earbuds,5.0,775.31,Net Banking,Completed,False,3876.55
+ORD00321,2024-11-17,CUST1941,Customer_211,Central,Home & Kitchen,Blender,8.0,4320.82,Credit Card,Completed,False,34566.56
+ORD00293,2024-11-18,CUST1190,Customer_328,North,Apparel,Winter Jacket,7.0,291.58,Cash on Delivery,Cancelled,False,2041.06
+ORD00443,2024-11-19,CUST1205,Customer_108,Central,Books,Kids Storybook,5.0,3480.06,Debit Card,Pending,False,17400.3
+ORD00310,2024-11-19,CUST1642,Customer_213,West,Apparel,Formal Shirt,8.0,516.25,Credit Card,Pending,False,4130.0
+ORD00174,2024-11-19,CUST1735,Customer_74,East,Electronics,Yoga Mat,7.0,157.59,UPI,Cancelled,False,1103.13
+ORD00407,2024-11-19,CUST1320,Customer_325,North,Beauty,Lipstick,1.0,2342.46,Debit Card,Cancelled,False,2342.46
+ORD00120,2024-11-21,CUST1931,Customer_359,East,Books,Fiction Novel,7.0,715.88,Credit Card,Completed,False,5011.16
+ORD00259,2024-11-24,CUST1536,Customer_18,North,Apparel,Formal Shirt,1.0,3857.04,Net Banking,Cancelled,False,3857.04
+ORD00227,2024-11-24,CUST1910,Customer_69,Central,Home & Kitchen,Storage Containers,8.0,1473.26,Credit Card,Returned,False,11786.08
+ORD00320,2024-11-24,CUST1070,Customer_272,Central,Beauty,Moisturizer,1.0,3110.05,Unknown,Pending,False,3110.05
+ORD00228,2024-11-27,CUST1735,Customer_96,North,Apparel,Winter Jacket,6.0,3985.22,Cash on Delivery,Pending,False,23911.32
+ORD00525,2024-11-28,CUST1799,Customer_146,East,Sports,Skipping Rope,6.0,3414.99,Net Banking,Pending,False,20489.94
+ORD00265,2024-11-30,CUST1095,Customer_208,Unspecified,Books,Fiction Novel,7.0,2830.6,Unknown,Pending,False,19814.2
+ORD00585,2024-12-01,CUST1068,Customer_199,East,Electronics,USB-C Cable,6.0,4341.77,Credit Card,Returned,False,26050.62
+ORD00593,2024-12-01,CUST1325,Customer_35,Central,Beauty,Moisturizer,9.0,4750.72,Credit Card,Cancelled,False,42756.48
+ORD00590,2024-12-02,CUST1089,Customer_374,West,Home & Kitchen,Storage Containers,9.0,4808.94,Cash on Delivery,Pending,False,43280.46
+ORD00095,2024-12-02,CUST1423,Customer_28,Unspecified,Electronics,Building Blocks,9.0,1904.63,Net Banking,Pending,False,17141.67
+ORD00557,2024-12-03,CUST1194,Customer_269,West,Books,Fiction Novel,9.0,897.54,UPI,Returned,False,8077.86
+ORD00246,2024-12-04,CUST1423,Customer_154,West,Home & Kitchen,Blender,1.0,2850.08,Cash on Delivery,Pending,False,2850.08
+ORD00028,2024-12-04,CUST1158,Customer_98,East,Beauty,Shampoo,4.0,4848.24,Cash on Delivery,Pending,False,19392.96
+ORD00191,2024-12-07,CUST1726,Customer_34,Central,Toys,Puzzle Set,9.0,1558.26,UPI,Cancelled,False,14024.34
+ORD00040,2024-12-07,CUST1362,Customer_400,Central,Apparel,Denim Jeans,7.0,4873.11,Debit Card,Cancelled,False,34111.77
+ORD00420,2024-12-08,CUST1152,Customer_47,Central,Toys,Board Game,2.0,150000.0,Credit Card,Returned,True,300000.0
+ORD00136,2024-12-09,CUST1420,Customer_182,West,Sports,Dumbbell Set,1.0,4846.73,Cash on Delivery,Returned,False,4846.73
+ORD00284,2024-12-10,CUST1142,Unknown Customer,North,Electronics,USB-C Cable,4.0,1375.51,Debit Card,Pending,False,5502.04
+ORD00251,2024-12-10,CUST1894,Customer_38,South,Uncategorized,Storage Containers,10.0,3662.88,Cash on Delivery,Cancelled,False,36628.8
+ORD00510,2024-12-12,CUST1819,Customer_162,West,Books,Self-Help Book,6.0,2655.05,Credit Card,Pending,False,15930.3
+ORD00220,2024-12-12,CUST1917,Customer_203,East,Electronics,Power Bank,3.0,1558.7,UPI,Pending,False,4676.1
+ORD00187,2024-12-13,CUST1971,Customer_190,East,Sports,Cricket Bat,8.0,3850.96,Unknown,Cancelled,False,30807.68
+ORD00318,2024-12-14,CUST1009,Customer_5,East,Apparel,Formal Shirt,2.0,4942.55,Net Banking,Pending,False,9885.1
+ORD00209,2024-12-14,CUST1131,Customer_50,West,Home & Kitchen,Cushion Cover,6.0,4005.25,Unknown,Completed,False,24031.5
+ORD00509,2024-12-14,CUST1918,Customer_301,North,Toys,Action Figure,8.0,713.9,Credit Card,Pending,False,5711.2
+ORD00392,2024-12-14,CUST1247,Customer_191,East,Uncategorized,Face Wash,10.0,2313.6,Net Banking,Completed,False,23136.0
+ORD00457,2024-12-15,CUST1390,Customer_59,Unspecified,Apparel,Cotton T-Shirt,5.0,2770.15,UPI,Completed,False,13850.75
+ORD00283,2024-12-15,CUST1975,Customer_373,West,Sports,Cricket Bat,4.0,2276.51,UPI,Pending,False,9106.04
+ORD00326,2024-12-15,CUST1781,Customer_242,West,Home & Kitchen,Cushion Cover,1.0,2998.71,Credit Card,Returned,False,2998.71
+ORD00478,2024-12-16,CUST1775,Customer_264,South,Apparel,Formal Shirt,8.0,922.23,Cash on Delivery,Completed,False,7377.84
+ORD00047,2024-12-17,CUST1372,Customer_221,South,Sports,Skipping Rope,6.0,3172.3,Credit Card,Pending,False,19033.8
+ORD00306,2024-12-18,CUST1881,Customer_364,North,Toys,Board Game,7.0,955.01,Debit Card,Cancelled,False,6685.07
+ORD00201,2024-12-18,CUST1161,Customer_226,West,Beauty,Face Wash,8.0,2402.54,UPI,Completed,False,19220.32
+ORD00550,2024-12-18,CUST1380,Customer_395,North,Toys,Action Figure,4.0,914.84,Credit Card,Pending,False,3659.36
+ORD00496,2024-12-18,CUST1418,Customer_186,North,Beauty,Moisturizer,3.0,2216.45,Cash on Delivery,Returned,False,6649.35
+ORD00219,2024-12-19,CUST1324,Customer_246,West,Books,Self-Help Book,9.0,4678.45,UPI,Returned,False,42106.05
+ORD00075,2024-12-19,CUST1661,Customer_365,West,Toys,Remote Car,8.0,3995.72,Credit Card,Returned,False,31965.76
+ORD00076,2024-12-20,CUST1313,Customer_340,Central,Apparel,Winter Jacket,6.0,2445.31,Cash on Delivery,Returned,False,14671.86
+ORD00416,2024-12-21,CUST1308,Customer_216,North,Apparel,Denim Jeans,9.0,1459.39,Cash on Delivery,Pending,False,13134.51
+ORD00311,2024-12-21,CUST1465,Customer_250,East,Sports,Dumbbell Set,10.0,161.99,Credit Card,Pending,False,1619.9
+ORD00299,2024-12-21,CUST1568,Customer_86,West,Books,Kids Storybook,5.0,830.44,UPI,Pending,False,4152.2
+ORD00582,2024-12-21,CUST1312,Customer_231,West,Electronics,Bluetooth Speaker,1.0,1759.6,Cash on Delivery,Cancelled,False,1759.6
+ORD00008,2024-12-25,CUST1623,Customer_326,South,Books,Cookbook,9.0,3686.26,Debit Card,Pending,False,33176.34
+ORD00309,2024-12-25,CUST1255,Customer_75,East,Electronics,Blender,4.0,3843.15,Net Banking,Pending,False,15372.6
+ORD00286,2024-12-25,CUST1111,Customer_394,South,Electronics,Bluetooth Speaker,6.0,956.74,Cash on Delivery,Completed,False,5740.44
+ORD00528,2024-12-29,CUST1619,Unknown Customer,West,Books,Cookbook,5.0,4455.31,UPI,Pending,False,22276.55
+ORD00273,2024-12-31,CUST1084,Customer_138,South,Toys,Remote Car,7.0,3601.63,Debit Card,Pending,False,25211.41
+ORD00435,2025-01-01,CUST1116,Customer_50,South,Sports,Cookbook,1.0,1805.58,UPI,Completed,False,1805.58
+ORD00236,2025-01-02,CUST1093,Customer_262,West,Electronics,Smartphone Case,1.0,2349.15,Cash on Delivery,Pending,False,2349.15
+ORD00367,2025-01-03,CUST1049,Customer_198,West,Home & Kitchen,Non-stick Pan,7.0,4850.14,Net Banking,Pending,False,33950.98
+ORD00262,2025-01-04,CUST1548,Customer_147,North,Electronics,Power Bank,9.0,4093.81,Net Banking,Cancelled,False,36844.29
+ORD00133,2025-01-04,CUST1440,Customer_232,South,Books,Kids Storybook,7.0,1793.82,Net Banking,Pending,False,12556.74
+ORD00372,2025-01-04,CUST1676,Customer_145,East,Books,Kids Storybook,4.0,615.19,Net Banking,Completed,False,2460.76
+ORD00231,2025-01-05,CUST1267,Customer_335,Unspecified,Uncategorized,Cushion Cover,4.0,451.3,Credit Card,Pending,False,1805.2
+ORD00563,2025-01-06,CUST1544,Customer_198,South,Electronics,Wireless Earbuds,4.0,2702.03,Debit Card,Completed,False,10808.12
+ORD00594,2025-01-07,CUST1783,Customer_164,North,Home & Kitchen,Blender,7.0,1621.24,UPI,Cancelled,False,11348.68
+ORD00413,2025-01-07,CUST1216,Customer_376,North,Home & Kitchen,Denim Jeans,10.0,2597.47,Credit Card,Returned,False,25974.7
+ORD00556,2025-01-10,CUST1904,Customer_10,Central,Sports,Football,6.0,3913.68,Debit Card,Returned,False,23482.08
+ORD00479,2025-01-11,CUST1961,Customer_184,West,Books,Self-Help Book,4.0,3843.14,Debit Card,Completed,False,15372.56
+ORD00256,2025-01-14,CUST1016,Customer_134,Central,Toys,Remote Car,10.0,2958.84,Unknown,Returned,False,29588.4
+ORD00389,2025-01-14,CUST1777,Customer_265,East,Apparel,Winter Jacket,1.0,2649.06,Debit Card,Completed,False,2649.06
+ORD00103,2025-01-16,CUST1722,Customer_196,West,Electronics,Bluetooth Speaker,3.0,2552.34,Credit Card,Cancelled,False,7657.02
+ORD00499,2025-01-17,CUST1457,Customer_359,South,Apparel,Cotton T-Shirt,2.0,1190.12,Net Banking,Returned,False,2380.24
+ORD00467,2025-01-18,CUST1216,Customer_212,Central,Home & Kitchen,Blender,3.0,930.63,Debit Card,Completed,False,2791.89
+ORD00165,2025-01-20,CUST1239,Customer_274,South,Sports,Dumbbell Set,5.0,4833.14,Net Banking,Cancelled,False,24165.7
+ORD00450,2025-01-21,CUST1794,Customer_372,South,Books,Cookbook,5.0,2326.75,Credit Card,Cancelled,False,11633.75
+ORD00438,2025-01-22,CUST1047,Customer_325,North,Uncategorized,Non-stick Pan,2.0,3894.9,Net Banking,Pending,False,7789.8
+ORD00339,2025-01-24,CUST1154,Customer_4,West,Books,Kids Storybook,1.0,1280.04,UPI,Pending,False,1280.04
+ORD00152,2025-01-24,CUST1697,Customer_290,Central,Toys,Board Game,6.0,4341.6,UPI,Cancelled,False,26049.6
+ORD00304,2025-01-24,CUST1559,Customer_112,West,Toys,Building Blocks,2.0,3719.55,Debit Card,Returned,False,7439.1
+ORD00357,2025-01-26,CUST1589,Customer_199,East,Sports,Yoga Mat,3.0,1004.09,Cash on Delivery,Returned,False,3012.27
+ORD00464,2025-01-26,CUST1390,Unknown Customer,North,Electronics,Bluetooth Speaker,8.0,908.17,Debit Card,Cancelled,False,7265.36
+ORD00598,2025-01-26,CUST1947,Customer_139,Central,Electronics,USB-C Cable,4.0,3750.48,Debit Card,Cancelled,False,15001.92
+ORD00399,2025-01-26,CUST1921,Customer_30,Central,Home & Kitchen,Formal Shirt,7.0,3353.57,Debit Card,Pending,False,23474.99
+ORD00537,2025-01-27,CUST1817,Customer_150,Central,Home & Kitchen,Non-stick Pan,4.0,4014.32,Cash on Delivery,Returned,False,16057.28
+ORD00567,2025-01-27,CUST1368,Unknown Customer,West,Apparel,Winter Jacket,7.0,150.95,Credit Card,Returned,False,1056.65
+ORD00014,2025-01-28,CUST1114,Customer_151,West,Sports,Dumbbell Set,3.0,2350.56,UPI,Completed,False,7051.68
+ORD00388,2025-01-31,CUST1275,Customer_374,West,Home & Kitchen,Storage Containers,10.0,3280.94,Debit Card,Pending,False,32809.4
+ORD00067,2025-02-02,CUST1987,Customer_160,North,Sports,Yoga Mat,10.0,274.54,UPI,Completed,False,2745.4
+ORD00426,2025-02-02,CUST1626,Unknown Customer,South,Sports,Football,8.0,4613.93,Credit Card,Pending,False,36911.44
+ORD00065,2025-02-03,CUST1772,Customer_16,South,Apparel,Cotton T-Shirt,4.0,4220.26,Cash on Delivery,Cancelled,False,16881.04
+ORD00384,2025-02-03,CUST1804,Customer_147,Central,Electronics,Power Bank,6.0,4407.78,UPI,Pending,False,26446.68
+ORD00394,2025-02-03,CUST1877,Customer_114,South,Toys,Board Game,4.0,1455.06,Unknown,Completed,False,5820.24
+ORD00383,2025-02-06,CUST1115,Customer_213,East,Beauty,Face Wash,3.0,2897.98,Cash on Delivery,Completed,False,8693.94
+ORD00522,2025-02-06,CUST1307,Customer_129,Central,Books,Cookbook,10.0,381.39,Credit Card,Pending,False,3813.9
+ORD00116,2025-02-06,CUST1543,Customer_257,East,Apparel,Denim Jeans,3.0,1396.3,Net Banking,Returned,False,4188.9
+ORD00118,2025-02-08,CUST1014,Customer_136,Central,Home & Kitchen,Non-stick Pan,2.0,2355.71,UPI,Completed,False,4711.42
+ORD00571,2025-02-09,CUST1177,Unknown Customer,Central,Electronics,Bluetooth Speaker,2.0,3036.87,UPI,Completed,False,6073.74
+ORD00549,2025-02-10,CUST1598,Customer_62,West,Electronics,Smartphone Case,4.0,193.31,Credit Card,Completed,False,773.24
+ORD00354,2025-02-10,CUST1391,Customer_366,East,Home & Kitchen,Kids Storybook,8.0,2790.91,Net Banking,Returned,False,22327.28
+ORD00192,2025-02-10,CUST1520,Customer_115,North,Books,Self-Help Book,4.0,3991.52,Debit Card,Pending,False,15966.08
+ORD00069,2025-02-11,CUST1355,Customer_273,West,Sports,Yoga Mat,6.0,484.44,UPI,Completed,False,2906.64
+ORD00108,2025-02-11,CUST1300,Unknown Customer,East,Electronics,Bluetooth Speaker,7.0,856.01,Cash on Delivery,Pending,False,5992.07
+ORD00465,2025-02-11,CUST1983,Customer_325,South,Books,Biography,5.0,3434.85,UPI,Completed,False,17174.25
+ORD00516,2025-02-13,CUST1489,Customer_277,North,Toys,Power Bank,9.0,1834.35,Debit Card,Pending,False,16509.15
+ORD00097,2025-02-13,CUST1726,Customer_82,East,Electronics,Power Bank,9.0,216.32,Net Banking,Completed,False,1946.88
+ORD00494,2025-02-15,CUST1435,Customer_69,East,Home & Kitchen,Cushion Cover,8.0,3864.42,Credit Card,Returned,False,30915.36
+ORD00117,2025-02-15,CUST1479,Customer_39,South,Electronics,Cookbook,4.0,4321.68,Net Banking,Completed,False,17286.72
+ORD00255,2025-02-15,CUST1779,Customer_164,South,Beauty,Face Wash,6.0,1667.67,Credit Card,Completed,False,10006.02
+ORD00307,2025-02-16,CUST1583,Customer_180,South,Toys,Remote Car,5.0,3044.76,Debit Card,Returned,False,15223.8
+ORD00164,2025-02-18,CUST1738,Customer_225,Central,Apparel,Formal Shirt,7.0,1916.85,Debit Card,Pending,False,13417.95
+ORD00508,2025-02-20,CUST1710,Customer_227,West,Uncategorized,Cushion Cover,10.0,2495.6,Debit Card,Returned,False,24956.0
+ORD00387,2025-02-22,CUST1318,Customer_144,West,Electronics,Bluetooth Speaker,2.0,4866.61,Debit Card,Cancelled,False,9733.22
+ORD00366,2025-02-24,CUST1457,Customer_6,East,Books,Fiction Novel,4.0,1360.27,Unknown,Returned,False,5441.08
+ORD00489,2025-02-24,CUST1638,Customer_338,Central,Electronics,Board Game,5.0,963.45,UPI,Pending,False,4817.25
+ORD00562,2025-02-25,CUST1541,Customer_21,North,Toys,Building Blocks,5.0,527.99,Debit Card,Completed,False,2639.95
+ORD00070,2025-02-25,CUST1108,Customer_222,East,Toys,Action Figure,8.0,3580.45,Net Banking,Cancelled,False,28643.6
+ORD00349,2025-02-25,CUST1381,Customer_352,North,Apparel,Denim Jeans,10.0,2992.68,Credit Card,Completed,False,29926.8
+ORD00456,2025-02-25,CUST1117,Customer_343,East,Beauty,Shampoo,8.0,1315.69,Cash on Delivery,Completed,False,10525.52
+ORD00491,2025-02-27,CUST1620,Customer_50,South,Books,Biography,8.0,4522.8,Cash on Delivery,Completed,False,36182.4
+ORD00460,2025-02-28,CUST1662,Customer_37,South,Apparel,Formal Shirt,1.0,2377.24,UPI,Completed,False,2377.24
+ORD00545,2025-02-28,CUST1124,Customer_394,South,Toys,Action Figure,7.0,3890.44,Net Banking,Cancelled,False,27233.08
+ORD00037,2025-02-28,CUST1045,Customer_2,East,Electronics,USB-C Cable,3.0,3240.0,UPI,Cancelled,False,9720.0
+ORD00006,2025-02-28,CUST1591,Customer_99,North,Sports,Dumbbell Set,1.0,3357.13,UPI,Completed,False,3357.13
+ORD00313,2025-02-28,CUST1345,Customer_281,Central,Home & Kitchen,LED Bulb Pack,3.0,2895.79,Net Banking,Returned,False,8687.37
+ORD00072,2025-03-01,CUST1285,Customer_231,South,Home & Kitchen,Blender,8.0,2913.77,Net Banking,Returned,False,23310.16
+ORD00196,2025-03-01,CUST1530,Customer_79,East,Sports,Yoga Mat,3.0,935.54,Debit Card,Returned,False,2806.62
+ORD00417,2025-03-01,CUST1523,Customer_369,Central,Apparel,Winter Jacket,2.0,1521.13,Credit Card,Pending,False,3042.26
+ORD00079,2025-03-02,CUST1303,Customer_117,East,Home & Kitchen,Non-stick Pan,3.0,1616.0,Cash on Delivery,Cancelled,False,4848.0
+ORD00172,2025-03-03,CUST1561,Customer_373,Central,Electronics,Blender,9.0,2202.79,UPI,Cancelled,False,19825.11
+ORD00026,2025-03-04,CUST1992,Customer_48,South,Electronics,Power Bank,3.0,2121.11,Net Banking,Cancelled,False,6363.33
+ORD00378,2025-03-06,CUST1838,Customer_268,North,Sports,Yoga Mat,9.0,3482.28,Net Banking,Completed,False,31340.52
+ORD00453,2025-03-07,CUST1502,Customer_294,North,Electronics,Power Bank,6.0,503.47,UPI,Completed,False,3020.82
+ORD00207,2025-03-09,CUST1441,Customer_69,East,Sports,Yoga Mat,6.0,3854.71,Unknown,Completed,False,23128.26
+ORD00197,2025-03-09,CUST1256,Customer_101,Central,Sports,Dumbbell Set,5.0,757.08,UPI,Completed,False,3785.4
+ORD00475,2025-03-10,CUST1832,Customer_298,Central,Electronics,Wireless Earbuds,7.0,3880.62,Debit Card,Completed,False,27164.34
+ORD00168,2025-03-11,CUST1291,Customer_43,South,Toys,Board Game,5.0,2329.2,Cash on Delivery,Cancelled,False,11646.0
+ORD00073,2025-03-11,CUST1186,Customer_250,South,Electronics,USB-C Cable,6.0,4019.49,UPI,Returned,False,24116.94
+ORD00312,2025-03-11,CUST1814,Customer_274,West,Beauty,Lipstick,4.0,4845.42,Unknown,Pending,False,19381.68
+ORD00540,2025-03-12,CUST1186,Customer_70,East,Beauty,Moisturizer,2.0,3238.93,Cash on Delivery,Pending,False,6477.86
+ORD00106,2025-03-12,CUST1977,Customer_163,East,Electronics,Bluetooth Speaker,9.0,324.11,Credit Card,Cancelled,False,2916.99
+ORD00084,2025-03-16,CUST1312,Customer_292,Central,Sports,Lipstick,1.0,3106.71,Credit Card,Cancelled,False,3106.71
+ORD00202,2025-03-17,CUST1751,Customer_177,West,Apparel,Running Shoes,3.0,3839.23,Cash on Delivery,Completed,False,11517.69
+ORD00518,2025-03-17,CUST1191,Customer_281,South,Home & Kitchen,Cushion Cover,4.0,1456.63,Cash on Delivery,Returned,False,5826.52
+ORD00100,2025-03-18,CUST1282,Customer_396,West,Books,Self-Help Book,6.0,4681.1,Cash on Delivery,Returned,False,28086.6
+ORD00007,2025-03-19,CUST1389,Customer_143,West,Toys,Remote Car,6.0,938.87,UPI,Cancelled,False,5633.22
+ORD00300,2025-03-19,CUST1974,Customer_5,West,Electronics,Yoga Mat,3.0,1096.37,Net Banking,Completed,False,3289.11
+ORD00252,2025-03-21,CUST1310,Customer_8,Unspecified,Beauty,Moisturizer,4.0,4816.08,Credit Card,Pending,False,19264.32
+ORD00149,2025-03-21,CUST1763,Customer_174,South,Electronics,USB-C Cable,6.0,3928.72,Credit Card,Completed,False,23572.32
+ORD00105,2025-03-21,CUST1076,Customer_241,North,Apparel,Winter Jacket,6.0,3172.81,Net Banking,Pending,False,19036.86
+ORD00573,2025-03-21,CUST1765,Customer_335,Central,Toys,Building Blocks,1.0,3224.35,Net Banking,Completed,False,3224.35
+ORD00176,2025-03-23,CUST1044,Customer_326,West,Electronics,USB-C Cable,6.0,1380.2,Credit Card,Returned,False,8281.2
+ORD00234,2025-03-23,CUST1538,Customer_229,Central,Uncategorized,Kids Storybook,6.0,528.8,Cash on Delivery,Completed,False,3172.8
+ORD00045,2025-03-25,CUST1182,Unknown Customer,East,Electronics,Wireless Earbuds,1.0,675.75,Net Banking,Returned,False,675.75
+ORD00337,2025-03-25,CUST1886,Customer_145,East,Beauty,Face Wash,6.0,568.97,Net Banking,Completed,False,3413.82
+ORD00473,2025-03-25,CUST1473,Customer_229,East,Books,Cookbook,5.0,2511.81,Credit Card,Cancelled,False,12559.05
+ORD00441,2025-03-27,CUST1428,Customer_312,South,Home & Kitchen,Cushion Cover,5.0,2079.67,UPI,Returned,False,10398.35
+ORD00538,2025-03-27,CUST1404,Customer_128,South,Apparel,Winter Jacket,7.0,4167.87,Debit Card,Returned,False,29175.09
+ORD00455,2025-03-28,CUST1679,Customer_170,East,Uncategorized,Blender,6.0,1573.84,Cash on Delivery,Completed,False,9443.04
+ORD00483,2025-03-30,CUST1513,Customer_72,West,Beauty,Sunscreen SPF50,3.0,1265.46,Cash on Delivery,Pending,False,3796.38
+ORD00371,2025-03-31,CUST1160,Customer_28,North,Apparel,Formal Shirt,6.0,1146.92,Unknown,Pending,False,6881.52
+ORD00553,2025-04-05,CUST1496,Customer_362,West,Uncategorized,Running Shoes,9.0,1579.37,Net Banking,Cancelled,False,14214.33
+ORD00235,2025-04-07,CUST1586,Customer_275,South,Electronics,Power Bank,3.0,1741.37,Cash on Delivery,Pending,False,5224.11
+ORD00027,2025-04-07,CUST1168,Customer_195,North,Toys,Action Figure,7.0,1436.23,Net Banking,Returned,False,10053.61
+ORD00350,2025-04-07,CUST1828,Customer_66,North,Electronics,Smartphone Case,6.0,744.26,Net Banking,Completed,False,4465.56
+ORD00088,2025-04-10,CUST1846,Customer_73,North,Toys,Self-Help Book,1.0,954.73,UPI,Completed,False,954.73
+ORD00382,2025-04-11,CUST1089,Customer_199,Central,Home & Kitchen,LED Bulb Pack,7.0,2827.46,UPI,Completed,False,19792.22
+ORD00358,2025-04-12,CUST1720,Customer_359,East,Toys,Puzzle Set,10.0,2883.49,Cash on Delivery,Cancelled,False,28834.9
+ORD00261,2025-04-12,CUST1675,Customer_250,North,Books,Kids Storybook,1.0,2731.23,Net Banking,Completed,False,2731.23
+ORD00189,2025-04-12,CUST1268,Customer_397,East,Sports,Football,8.0,1190.67,Cash on Delivery,Returned,False,9525.36
+ORD00249,2025-04-13,CUST1575,Customer_212,West,Apparel,Winter Jacket,9.0,150000.0,Net Banking,Cancelled,True,1350000.0
+ORD00253,2025-04-13,CUST1712,Customer_310,South,Toys,Action Figure,7.0,4588.36,Cash on Delivery,Returned,False,32118.52
+ORD00158,2025-04-14,CUST1396,Customer_210,East,Home & Kitchen,LED Bulb Pack,10.0,403.97,UPI,Completed,False,4039.7
+ORD00092,2025-04-14,CUST1185,Customer_300,West,Electronics,Football,8.0,4849.92,Net Banking,Returned,False,38799.36
+ORD00062,2025-04-15,CUST1637,Customer_274,North,Sports,Winter Jacket,7.0,3020.68,Credit Card,Completed,False,21144.76
+ORD00297,2025-04-15,CUST1688,Customer_69,South,Electronics,Running Shoes,2.0,1307.08,Unknown,Cancelled,False,2614.16
+ORD00569,2025-04-15,CUST1096,Customer_20,East,Electronics,Bluetooth Speaker,6.0,907.12,UPI,Returned,False,5442.72
+ORD00089,2025-04-16,CUST1449,Customer_64,West,Books,Kids Storybook,5.0,3543.71,UPI,Completed,False,17718.55
+ORD00327,2025-04-17,CUST1971,Customer_204,Central,Apparel,Cotton T-Shirt,5.0,3198.57,Cash on Delivery,Pending,False,15992.85
+ORD00487,2025-04-17,CUST1529,Customer_208,Central,Apparel,Running Shoes,10.0,3242.47,UPI,Completed,False,32424.7
+ORD00221,2025-04-18,CUST1671,Customer_132,West,Electronics,Bluetooth Speaker,4.0,1130.03,Unknown,Returned,False,4520.12
+ORD00009,2025-04-18,CUST1701,Customer_167,East,Electronics,Lipstick,4.0,4135.74,UPI,Pending,False,16542.96
+ORD00087,2025-04-18,CUST1806,Customer_321,Central,Books,Self-Help Book,4.0,2211.92,Cash on Delivery,Cancelled,False,8847.68
+ORD00599,2025-04-19,CUST1887,Customer_316,West,Electronics,Smartphone Case,6.0,4353.86,Debit Card,Pending,False,26123.16
+ORD00561,2025-04-20,CUST1479,Customer_328,Central,Books,Biography,6.0,2856.4,Net Banking,Returned,False,17138.4
+ORD00268,2025-04-20,CUST1016,Customer_107,Central,Electronics,Smartphone Case,3.0,3798.43,Net Banking,Completed,False,11395.29
+ORD00551,2025-04-21,CUST1061,Customer_183,South,Electronics,Dumbbell Set,9.0,3988.61,Debit Card,Pending,False,35897.49
+ORD00292,2025-04-21,CUST1528,Customer_90,Central,Toys,Remote Car,3.0,1755.3,Net Banking,Pending,False,5265.9
+ORD00547,2025-04-24,CUST1162,Customer_323,North,Beauty,Lipstick,9.0,2676.49,UPI,Pending,False,24088.41
+ORD00111,2025-04-28,CUST1601,Customer_154,South,Electronics,USB-C Cable,5.0,2365.65,UPI,Cancelled,False,11828.25
+ORD00364,2025-04-30,CUST1871,Customer_395,Central,Apparel,Cotton T-Shirt,1.0,1033.1,UPI,Completed,False,1033.1
+ORD00340,2025-05-01,CUST1001,Customer_389,West,Toys,Building Blocks,5.0,654.15,Cash on Delivery,Cancelled,False,3270.75
+ORD00271,2025-05-03,CUST1992,Customer_397,East,Toys,Board Game,1.0,3225.5,Net Banking,Pending,False,3225.5
+ORD00423,2025-05-04,CUST1899,Customer_376,North,Home & Kitchen,Storage Containers,6.0,4102.58,Debit Card,Completed,False,24615.48
+ORD00439,2025-05-04,CUST1986,Customer_256,North,Books,Kids Storybook,9.0,3720.64,Cash on Delivery,Pending,False,33485.76
+ORD00315,2025-05-05,CUST1207,Customer_353,South,Beauty,Face Wash,5.0,921.04,UPI,Completed,False,4605.2
+ORD00341,2025-05-07,CUST1995,Customer_73,East,Electronics,Sunscreen SPF50,2.0,362.92,Debit Card,Completed,False,725.84
+ORD00424,2025-05-07,CUST1278,Customer_198,West,Beauty,Sunscreen SPF50,7.0,3296.91,Debit Card,Completed,False,23078.37
+ORD00529,2025-05-09,CUST1423,Customer_86,South,Sports,Skipping Rope,1.0,756.44,Debit Card,Pending,False,756.44
+ORD00071,2025-05-09,CUST1630,Customer_276,West,Books,Kids Storybook,8.0,2262.54,Cash on Delivery,Returned,False,18100.32
+ORD00258,2025-05-09,CUST1471,Customer_87,East,Electronics,Action Figure,3.0,828.8,Cash on Delivery,Pending,False,2486.4
+ORD00449,2025-05-09,CUST1013,Customer_381,East,Toys,Puzzle Set,4.0,3159.72,Net Banking,Cancelled,False,12638.88
+ORD00287,2025-05-10,CUST1988,Customer_221,North,Sports,Football,1.0,628.24,Debit Card,Completed,False,628.24
+ORD00214,2025-05-10,CUST1738,Customer_27,Central,Beauty,Lipstick,8.0,976.98,Cash on Delivery,Pending,False,7815.84
+ORD00044,2025-05-10,CUST1359,Customer_329,Central,Home & Kitchen,Non-stick Pan,7.0,3445.66,Cash on Delivery,Returned,False,24119.62
+ORD00347,2025-05-10,CUST1405,Customer_263,North,Electronics,Smartphone Case,5.0,1411.81,Debit Card,Completed,False,7059.05
+ORD00125,2025-05-12,CUST1051,Customer_171,South,Books,Kids Storybook,3.0,3966.84,Debit Card,Completed,False,11900.52
+ORD00575,2025-05-12,CUST1770,Customer_305,Central,Uncategorized,USB-C Cable,9.0,586.9,Net Banking,Returned,False,5282.1
+ORD00080,2025-05-13,CUST1566,Customer_150,North,Home & Kitchen,Non-stick Pan,8.0,647.55,Credit Card,Completed,False,5180.4
+ORD00428,2025-05-15,CUST1531,Customer_268,Central,Sports,Cricket Bat,2.0,2249.31,Debit Card,Pending,False,4498.62
+ORD00091,,CUST1783,Customer_345,East,Apparel,Formal Shirt,10.0,345.12,Debit Card,Pending,False,3451.2
+ORD00448,,CUST1523,Customer_357,East,Books,Kids Storybook,1.0,4643.45,Net Banking,Pending,False,4643.45
+ORD00138,,CUST1587,Customer_116,West,Home & Kitchen,Non-stick Pan,9.0,4876.55,Unknown,Completed,False,43888.95
+ORD00205,,CUST1900,Customer_158,Unspecified,Beauty,Shampoo,1.0,586.74,Net Banking,Completed,False,586.74
+ORD00404,,CUST1871,Customer_61,West,Home & Kitchen,Cushion Cover,1.0,4352.01,Cash on Delivery,Completed,False,4352.01
+ORD00163,,CUST1677,Customer_173,Central,Toys,Board Game,3.0,3046.65,Debit Card,Cancelled,False,9139.95
+ORD00039,,CUST1440,Customer_66,North,Uncategorized,Bluetooth Speaker,5.0,1918.56,Credit Card,Returned,False,9592.8
+ORD00433,,CUST1911,Customer_261,Central,Toys,Board Game,4.0,3324.79,Net Banking,Returned,False,13299.16
+ORD00374,,CUST1174,Customer_327,North,Apparel,Cotton T-Shirt,2.0,2446.82,Credit Card,Returned,False,4893.64
+ORD00005,,CUST1826,Customer_23,West,Toys,Puzzle Set,9.0,755.41,Net Banking,Completed,False,6798.69
+ORD00244,,CUST1250,Unknown Customer,North,Electronics,USB-C Cable,7.0,2278.97,Unknown,Cancelled,False,15952.79
+ORD00436,,CUST1046,Customer_85,West,Sports,Dumbbell Set,3.0,4135.92,Net Banking,Completed,False,12407.76
